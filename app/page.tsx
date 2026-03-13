@@ -10,9 +10,9 @@ import ThemeProvider from "@/components/theme-provider";
 import ThemeToggle from "@/components/theme-toggle";
 
 export const metadata: Metadata = {
-  title: "Muhammed Yasser",
+  title: "Muhammed Ghaleb",
   description:
-    "Professional portfolio of Muhammed Yasser, a Software developer specializing in Java, Spring framework and Spring boot.",
+    "Professional portfolio of Muhammed Ghaleb, SOC Analyst specializing in security monitoring, incident detection, and threat analysis. Passionate about safeguarding organizational systems and strengthening cybersecurity defenses..",
 };
 
 export default function Home() {

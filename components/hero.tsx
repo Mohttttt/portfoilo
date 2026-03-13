@@ -66,7 +66,7 @@ export default function Hero() {
               className="rounded-full"
             >
               <Link
-                href="https://github.com/M0hammedYasser"
+                href="https://github.com/Mohttttt"
                 target="_blank"
                 aria-label="GitHub"
               >
@@ -80,7 +80,7 @@ export default function Hero() {
               className="rounded-full"
             >
               <Link
-                href="https://www.linkedin.com/in/muhammad-yasser-9b2736251/"
+                href="https://www.linkedin.com/"
                 target="_blank"
                 aria-label="LinkedIn"
               >
@@ -94,7 +94,7 @@ export default function Hero() {
               className="rounded-full"
             >
               <Link
-                href="mailto:muhmdyasser0@gmail.com"
+                href="mailto:mohamoudmohammad9@gmail.com"
                 aria-label="Email"
               >
                 <Mail className="h-5 w-5" />
@@ -117,7 +117,7 @@ export default function Hero() {
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-background shadow-xl">
               <Image
                 src="/profile.png"
-                alt="Muhammed Yasser"
+                alt="Muhammed Ghaleb"
                 fill
                 className="object-cover"
                 priority

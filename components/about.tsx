@@ -32,7 +32,7 @@ export default function About() {
                 width={500}
                 height={500}
                 src="/profile.png"
-                alt="Muhamemd Yasser"
+                alt="Muhammed Ghaleb"
                 className="object-cover"
               />
             </div>
