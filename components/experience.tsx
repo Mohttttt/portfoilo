@@ -8,7 +8,7 @@ const workExperience = [
   
    {
     title: "IT Manager",
-    company: "25Jnauary Hospital",
+    company: "25 January Hospital",
     location: "OnSite",
     period: "may 2024 – Present",
     description: [
