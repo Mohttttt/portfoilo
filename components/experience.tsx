@@ -4,11 +4,25 @@ import { motion } from "framer-motion";
 import { Briefcase, Calendar, GraduationCap, MapPin } from "lucide-react";
 
 const workExperience = [
+  
+  
+   {
+    title: "IT Manager",
+    company: "25Jnauary Hospital",
+    location: "OnSite",
+    period: "may 2024 – Present",
+    description: [
+      "-----------------------------------.\n" ,
+      "-------------------------------------------------." ,
+    ],
+  },
+  
+  
   {
     title: "Teaching Assistant",
     company: "El Salhia University",
     location: "OnSite",
-    period: "Nov 2024 – Present",
+    period: "Nov 2024 – April 2025",
     description: [
       "Supported over 100 students in Networking, Mathematics, and Introduction to Computer Science (CS) courses." ,
       "Assisted with 15+ tutorials and 10+ lab sessions per semester, enhancing hands-on learning experiences." ,
